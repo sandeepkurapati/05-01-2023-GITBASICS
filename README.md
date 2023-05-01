@@ -3,3 +3,4 @@ GIT COMMANDS:
 'git status': Shows the status of the file
 'git add' :Puts into the staging area
 'git commit': commits to the 
+;git log --oneline --all' - shows git log in one line.
